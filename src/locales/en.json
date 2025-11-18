@@ -1,0 +1,60 @@
+{
+    "app": {
+        "title": "Worlder"
+    },
+    "auth": {
+        "login": "Login",
+        "register": "Register",
+        "logout": "Logout",
+        "email": "Email",
+        "password": "Password",
+        "displayName": "Display Name",
+        "loginWithGoogle": "Login with Google",
+        "loginWithFacebook": "Login with Facebook",
+        "loginWithApple": "Login with Apple",
+        "alreadyHaveAccount": "Already have an account?",
+        "dontHaveAccount": "Don't have an account?",
+        "orContinueWith": "Or continue with"
+    },
+    "movies": {
+        "popular": "Popular",
+        "nowPlaying": "Now Playing",
+        "upcoming": "Upcoming",
+        "topRated": "Top Rated",
+        "search": "Search movies...",
+        "noResults": "No results found",
+        "releaseDate": "Release Date",
+        "rating": "Rating",
+        "runtime": "Runtime",
+        "minutes": "minutes",
+        "overview": "Overview",
+        "cast": "Cast",
+        "trailer": "Trailer",
+        "addToFavorites": "Add to Favorites",
+        "removeFromFavorites": "Remove from Favorites"
+    },
+    "navigation": {
+        "home": "Home",
+        "favorites": "Favorites",
+        "search": "Search"
+    },
+    "favorites": {
+        "title": "My Favorites",
+        "empty": "No favorites yet",
+        "emptyDescription": "Start adding movies to your favorites!"
+    },
+    "theme": {
+        "light": "Light",
+        "dark": "Dark",
+        "toggle": "Toggle theme"
+    },
+    "language": {
+        "english": "English",
+        "indonesian": "Bahasa Indonesia"
+    },
+    "common": {
+        "loading": "Loading...",
+        "error": "Something went wrong",
+        "retry": "Retry"
+    }
+}

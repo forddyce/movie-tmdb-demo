@@ -1,0 +1,60 @@
+{
+    "app": {
+        "title": "Worlder"
+    },
+    "auth": {
+        "login": "Masuk",
+        "register": "Daftar",
+        "logout": "Keluar",
+        "email": "Email",
+        "password": "Kata Sandi",
+        "displayName": "Nama Tampilan",
+        "loginWithGoogle": "Masuk dengan Google",
+        "loginWithFacebook": "Masuk dengan Facebook",
+        "loginWithApple": "Masuk dengan Apple",
+        "alreadyHaveAccount": "Sudah punya akun?",
+        "dontHaveAccount": "Belum punya akun?",
+        "orContinueWith": "Atau lanjutkan dengan"
+    },
+    "movies": {
+        "popular": "Populer",
+        "nowPlaying": "Sedang Tayang",
+        "upcoming": "Akan Datang",
+        "topRated": "Nilai Tertinggi",
+        "search": "Cari film...",
+        "noResults": "Tidak ada hasil",
+        "releaseDate": "Tanggal Rilis",
+        "rating": "Rating",
+        "runtime": "Durasi",
+        "minutes": "menit",
+        "overview": "Ringkasan",
+        "cast": "Pemeran",
+        "trailer": "Trailer",
+        "addToFavorites": "Tambah ke Favorit",
+        "removeFromFavorites": "Hapus dari Favorit"
+    },
+    "navigation": {
+        "home": "Beranda",
+        "favorites": "Favorit",
+        "search": "Cari"
+    },
+    "favorites": {
+        "title": "Favorit Saya",
+        "empty": "Belum ada favorit",
+        "emptyDescription": "Mulai tambahkan film ke favorit Anda!"
+    },
+    "theme": {
+        "light": "Terang",
+        "dark": "Gelap",
+        "toggle": "Ubah tema"
+    },
+    "language": {
+        "english": "English",
+        "indonesian": "Bahasa Indonesia"
+    },
+    "common": {
+        "loading": "Memuat...",
+        "error": "Terjadi kesalahan",
+        "retry": "Coba Lagi"
+    }
+}
