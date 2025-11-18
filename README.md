@@ -251,8 +251,6 @@ The app is fully responsive with breakpoints:
 - Tablet: 640px - 1024px
 - Desktop: > 1024px
 
-## 🧪 Testing (Optional)
-
 ## 🧪 Testing (Cypress)
 
 End-to-end tests are written using Cypress. To run the tests:
